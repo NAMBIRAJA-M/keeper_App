@@ -1,7 +1,7 @@
 {
   "name": "using-pre-built-react-components",
   "version": "1.0.0",
-  "description": "",
+  "description": "Created with CodeSandbox",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -29,5 +29,7 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "author": "NAMBI RAJA",
+  "license": "ISC"
 }
